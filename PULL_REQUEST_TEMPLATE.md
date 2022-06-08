@@ -8,8 +8,8 @@ Correo Electronico: carlosrd@gmail.com
 
 ## Reto:
 
-- [X] Primer problema
-- [X] Segundo problema
-- [X] Tercer problema
-- [X] Cuarto Problema
-- [X] Quinto Problema
+- [ ] Primer problema
+- [ ] Segundo problema
+- [ ] Tercer problema
+- [ ] Cuarto Problema
+- [ ] Quinto Problema
