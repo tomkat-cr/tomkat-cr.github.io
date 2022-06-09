@@ -19,6 +19,8 @@ npm run start
 ### Debug
 
 http://localhost:8080/public/
+          o
+https://tomkat-cr.github.io/public/
 
 ### Documentación
 
